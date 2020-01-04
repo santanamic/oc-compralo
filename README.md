@@ -18,7 +18,7 @@ Steps for installing via FTP using Filezilla:
 
 2. When connecting to FTP, on the right side will be shown the folders that are inside the server, go to the folder containing your opencart installation.
 
-3. Send the extracted (** admin ** and ** catalog **) folders from the Compralo module to the opencart folder
+3. Send the extracted (**admin** and **catalog**) folders from the Compralo module to the opencart folder
 
 Be careful not to drag a system folder; if this happens, you will have one folder in another and this module will not work.
 
@@ -34,7 +34,7 @@ Search for the “Compralo” module
 
 ![OpenCart, install](https://raw.github.com/santanamic/oc-compralo/master/docs/_media/3.png "OpenCart, install")
 
-The module will be shown as the image below. Click the ** install ** button to start the module installation.
+The module will be shown as the image below. Click the **install** button to start the module installation.
 
 ![OpenCart, install](https://raw.github.com/santanamic/oc-compralo/master/docs/_media/4.png "OpenCart, install")
 
@@ -43,12 +43,12 @@ After installation, you will need to enable and enter authentication data to lin
 #### 2- OpenCart Module Configuration
 
 
-On the ** Payment Methods ** page, click ** Edit ** to access the Compralo module. The module page will be loaded with the configuration options below:
+On the **Payment Methods** page, click **Edit** to access the Compralo module. The module page will be loaded with the configuration options below:
 
 ![OpenCart, install](https://raw.github.com/santanamic/oc-compralo/master/docs/_media/5.png "OpenCart, install")
 
 
-> Opções de configuração:
+> Configuration Options:
 
 
 **Payment Method Enabled:** Enable to use. Disable to turn off.
