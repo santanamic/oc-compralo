@@ -1,4 +1,4 @@
-# Compralo payment modulo for OpenCart 3.x
+# Compralo payment Extension for OpenCart 3.x
 
 
 To make Compralo available as a payment facilitator on the OpenCart platform, simply download the package and extract the module folder into your store configuration files.
