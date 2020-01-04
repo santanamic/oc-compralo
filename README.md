@@ -40,7 +40,7 @@ The module will be shown as the image below. Click the ** install ** button to s
 
 After installation, you will need to enable and enter authentication data to link your store with Compralo.
 
-#### 2- Configuração do Módulo OpenCart
+#### 2- OpenCart Module Configuration
 
 
 On the ** Payment Methods ** page, click ** Edit ** to access the Compralo module. The module page will be loaded with the configuration options below:
