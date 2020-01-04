@@ -24,7 +24,7 @@ Be careful not to drag a system folder; if this happens, you will have one folde
 
 ![OpenCart, install](https://raw.github.com/santanamic/oc-compralo/master/docs/_media/1.png "OpenCart, install")
 
-Following are the folders in the OpenCart installation directories:
+Following are the folders in the OpenCart installation directory:
 
 ![OpenCart, install](https://raw.github.com/santanamic/oc-compralo/master/docs/_media/2.png "OpenCart, install")
 
